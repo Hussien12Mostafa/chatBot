@@ -1,0 +1,15 @@
+<aiml version="1.0">
+  <category>
+    <pattern>HI</pattern>
+    <template>Hello!</template>
+  </category>
+  <category>
+    <pattern>WHAT IS YOUR NAME</pattern>
+    <template>My name is AIMLBot.</template>
+  </category>
+  <category>
+    <pattern>HOW ARE YOU</pattern>
+    <template>I'm doing well, thank you!</template>
+  </category>
+  <!-- Add more patterns and responses here -->
+</aiml>
